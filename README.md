@@ -1,4 +1,5 @@
 # Mod18Chall
+This is a project in which I create a crude version of a block chain and deploy it on a [streamlit](https://github.com/streamlit/streamlit) application.
 
 ## Technologies
 The following packages were used:
@@ -17,6 +18,11 @@ To install streamlit, in your terminal run:
 
 
 ## Usage
+
+### Code
+Code is found in [pychain.py](https://github.com/wcolwellcol/Mod18Chall/blob/main/Starter_Code/pychain.py) within the starter_code folder. Note, the embedded streamlit commands (denoted by `st.[something]`) which enables deployment. 
+
+### Run the App
 With your terminal, navigate to the folder that holds the pychain.py app. Run the script in the terminal with the command `streamlit run pychain.py`
 
 A page should automatically open in your web browser where the app is deployed.
